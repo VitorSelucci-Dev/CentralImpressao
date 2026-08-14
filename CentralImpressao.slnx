@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CentralImpressao.App/CentralImpressao.App.csproj" />
+    <Project Path="src/CentralImpressao.Core/CentralImpressao.Core.csproj" />
+    <Project Path="src/CentralImpressao.Data/CentralImpressao.Data.csproj" />
+  </Folder>
+</Solution>
